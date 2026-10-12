@@ -1,12 +1,10 @@
 {
   "servers": {
     "owner": [
-      "https://jarvis.taild64bba.ts.net",
-      "https://203.194.110.48"
+      "https://jarvis.taild64bba.ts.net"
     ],
     "farmer": [
-      "https://jarvis.taild64bba.ts.net:8443",
-      "https://203.194.110.48"
+      "https://jarvis.taild64bba.ts.net:8443"
     ]
   },
   "maintenance": []

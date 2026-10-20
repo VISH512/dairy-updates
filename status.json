@@ -2,10 +2,12 @@
   "servers": {
     "owner": [
       "https://jarvis.taild64bba.ts.net",
+      "https://mydairy.duckdns.org",
       "https://203.194.110.48"
     ],
     "farmer": [
       "https://jarvis.taild64bba.ts.net:8443",
+      "https://mydairy.duckdns.org",
       "https://203.194.110.48"
     ]
   },
